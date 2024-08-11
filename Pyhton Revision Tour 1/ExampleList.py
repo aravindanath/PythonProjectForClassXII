@@ -1,4 +1,7 @@
 studentNames = ["Arvind","Raj","Aadvik","Arvind"]
+#                   0,     1,       2,     3
+str = "arvind"
+#     0,1,2,3,4,5
 studentNames.append("Rurik")
 
 print(studentNames)
